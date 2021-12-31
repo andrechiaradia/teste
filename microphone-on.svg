@@ -1,0 +1,7 @@
+<svg id="microphone" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <path id="Caminho_2" data-name="Caminho 2" d="M0,0H20V20H0Z" fill="none"/>
+  <rect id="Retângulo_18" data-name="Retângulo 18" width="5" height="9.167" rx="2.5" transform="translate(7.5 1.667)" fill="#f7f8fa" stroke="#f7f8fa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path id="Caminho_3" data-name="Caminho 3" d="M5,10a5.833,5.833,0,1,0,11.667,0" transform="translate(-0.833 -1.667)" fill="none" stroke="#f7f8fa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <line id="Linha_4" data-name="Linha 4" x2="6.667" transform="translate(6.667 17.5)" fill="none" stroke="#f7f8fa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <line id="Linha_5" data-name="Linha 5" y2="3.333" transform="translate(10 14.167)" fill="none" stroke="#f7f8fa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+</svg>

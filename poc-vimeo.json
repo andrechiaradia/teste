@@ -1,0 +1,110 @@
+{
+    "text": "",
+    "src": "media/q_living.mp4",
+    "silentTime": 3.0,
+    "children": [{
+            "text": "I'm a student.",
+            "src": "media/ans_student.mp4",
+            "silentTime": 3.5,
+            "children": [{
+                    "text": "Business Administration.",
+                    "src": "media/business.mp4",
+                    "children": []
+                },
+                {
+                    "text": "Accounting.",
+                    "src": "media/accounting.mp4",
+                    "children": []
+                },
+                {
+                    "text": "Civil Engineering.",
+                    "src": "media/civil.mp4",
+                    "children": []
+                },
+                {
+                    "text": "Psychology.",
+                    "src": "media/psychology.mp4",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "text": "I'm a salesperson.",
+            "src": "sales.mp4",
+            "silentTime": 5,
+            "children": [{
+                    "text": "For 10 years now, I love it.",
+                    "src": "https://vimeo.com/589925875",
+                    "children": []
+                },
+                {
+                    "text": "For 5 years, my goal is to become a Sales Director.",
+                    "src": "https://vimeo.com/589925903",
+                    "children": []
+                },
+                {
+                    "text": "I just got this job, still learning.",
+                    "src": "https://vimeo.com/589925933",
+                    "children": []
+                },
+                {
+                    "text": "For 3 years, but I'd like to have a career change.",
+                    "src": "https://vimeo.com/589925997",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "text": "I'm a marketing analyst.",
+            "src": "https://vimeo.com/589926037",
+            "silentTime": 4.0,
+            "children": [{
+                    "text": "It's my passion, I just love it.",
+                    "src": "https://vimeo.com/589926092",
+                    "children": []
+                },
+                {
+                    "text": "During the graduate program, I had the opportunity to develop a marketing project and fell in love.",
+                    "src": "https://vimeo.com/589926174",
+                    "children": []
+                },
+                {
+                    "text": "Started as an intern and eventually ended up in the marketing department.",
+                    "src": "https://vimeo.com/589926208",
+                    "children": []
+                },
+                {
+                    "text": "I was looking for a new challenge and found out I was really good at Marketing.",
+                    "src": "https://vimeo.com/589926260",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "src": "https://vimeo.com/589926290",
+            "text": "I'm an intern.",
+            "silentTime": 6.0,
+            "children": [{
+                    "text": "Yes, it was very challenging.",
+                    "src": "https://vimeo.com/589926313",
+                    "children": []
+                },
+                {
+                    "text": "Kind of, business cases are very demanding.",
+                    "src": "https://vimeo.com/589926351",
+                    "children": []
+                },
+                {
+                    "text": "Yes, but I was sure I was gonna make it.",
+                    "src": "https://vimeo.com/589926383",
+                    "children": []
+                },
+                {
+                    "src": "https://vimeo.com/589926404",
+                    "text": "No, I nailed it!",
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
